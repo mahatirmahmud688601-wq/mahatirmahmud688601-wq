@@ -49,6 +49,14 @@ I build practical digital products and explore AI-powered solutions.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatirmahmud688601-wq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top programming languages" />
 </div>
 
+## Coding Activity
+
+<div align="center">
+  <a href="https://wakatime.com/@mahatirmahmud">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahatirmahmud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="WakaTime coding activity" />
+  </a>
+</div>
+
 ## Contribution Activity
 
 [![Mahatir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mahatirmahmud688601-wq)
@@ -67,6 +75,13 @@ I build practical digital products and explore AI-powered solutions.
 
 ## Connect
 
-Feel free to explore my repositories and connect with me on GitHub.
+Feel free to explore my repositories and connect with me.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mahatirmahmud688601--wq-181717?style=flat&logo=github)](https://github.com/mahatirmahmud688601-wq)
+<p align="center">
+  <a href="https://github.com/mahatirmahmud688601-wq">
+    <img src="https://img.shields.io/badge/GitHub-mahatirmahmud688601--wq-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahatir-mahmud-mahi-0281153a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahatir%20Mahmud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
