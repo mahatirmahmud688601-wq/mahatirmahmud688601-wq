@@ -1,0 +1,56 @@
+name: Refresh profile statistics
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update refresh timestamp
+        env:
+          TZ: UTC
+        run: |
+          python - <<'PY'
+          from datetime import datetime, timezone
+          from pathlib import Path
+          import re
+
+          path = Path("README.md")
+          content = path.read_text()
+          refreshed = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+          replacement = (
+              "<!-- PROFILE_STATS_START -->\n"
+              f"<p align=\"center\"><sub>Stats refreshed automatically: {refreshed}</sub></p>\n"
+              "<!-- PROFILE_STATS_END -->"
+          )
+          pattern = r"<!-- PROFILE_STATS_START -->.*?<!-- PROFILE_STATS_END -->"
+          updated, count = re.subn(pattern, replacement, content, count=1, flags=re.S)
+          if count != 1:
+              raise SystemExit("Profile stats markers were not found in README.md")
+          path.write_text(updated)
+          PY
+
+      - name: Commit refresh timestamp when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README update needed."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile stats timestamp"
+          git push

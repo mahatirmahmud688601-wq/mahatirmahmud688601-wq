@@ -53,6 +53,10 @@ I build practical digital products and explore AI-powered solutions.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatirmahmud688601-wq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top programming languages" />
 </div>
 
+<!-- PROFILE_STATS_START -->
+<p align="center"><sub>Stats refresh automation is enabled.</sub></p>
+<!-- PROFILE_STATS_END -->
+
 ## Coding Activity
 
 <div align="center">
