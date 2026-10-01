@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=150&section=header&text=Build%20%7C%20Learn%20%7C%20Create&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="Professional social banner" />
+</p>
+
 # Hi, I'm Mahatir Mahmud
 
 Welcome to my GitHub profile.
@@ -73,15 +77,22 @@ I build practical digital products and explore AI-powered solutions.
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mahatirmahmud688601-wq/mahatirmahmud688601-wq/output/github-snake.svg" />
 </picture>
 
-## Connect
+## Connect & Contact
 
-Feel free to explore my repositories and connect with me.
+I'm open to connecting with builders, collaborators, and people interested in AI-powered products and automation.
 
 <p align="center">
   <a href="https://github.com/mahatirmahmud688601-wq">
-    <img src="https://img.shields.io/badge/GitHub-mahatirmahmud688601--wq-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/mahatir-mahmud-mahi-0281153a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahatir%20Mahmud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
+  <a href="https://wakatime.com/@mahatirmahmud">
+    <img src="https://img.shields.io/badge/WakaTime-Coding%20Activity-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="Footer banner" />
 </p>
