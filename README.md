@@ -96,14 +96,18 @@ I enjoy turning ideas into practical products—from the first interface sketch 
 
 ## Let's connect
 
-If you are building something useful with **AI, automation, Android, or the web**, I would be happy to connect and collaborate.
+Building something useful with **AI, automation, Android, Flutter, or the web**? Let's connect and collaborate.
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahatir-mahmud-mahi-0281153a7/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://wakatime.com/@mahatirmahmud"><img src="https://img.shields.io/badge/WakaTime-Coding%20activity-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="View WakaTime coding activity" /></a>
+  <a href="https://github.com/mahatirmahmud688601-wq?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahatir-mahmud-mahi-0281153a7/)
-[![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahatirmahmud688601-wq?tab=repositories)
-
-</div>
+<p align="center">
+  <a href="https://github.com/mahatirmahmud688601-wq?tab=followers"><img src="https://img.shields.io/github/followers/mahatirmahmud688601-wq?label=Follow%20on%20GitHub&style=flat-square&logo=github" alt="Follow on GitHub" /></a>
+  <a href="https://github.com/mahatirmahmud688601-wq/mahatirmahmud688601-wq/issues"><img src="https://img.shields.io/badge/Open%20to%20collaboration-Yes-22c55e?style=flat-square&logo=handshake&logoColor=white" alt="Open to collaboration" /></a>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:7c3aed&height=180&section=header&text=Mahatir%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=App%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18" alt="Mahatir Mahmud profile banner" width="100%" />
 </p>
