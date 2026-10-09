@@ -70,11 +70,15 @@ I enjoy turning ideas into practical products—from the first interface sketch 
 <div align="center"><sub>Profile activity widgets refresh automatically.</sub></div>
 <!-- PROFILE_STATS_END -->
 
-## Contributions
+## Contribution Pulse
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=react-dark&custom_title=Contribution%20Pulse&days=45&area=true&hide_border=true&radius=8&point=38bdf8&line=60a5fa" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=github-compact&custom_title=Contribution%20Pulse&days=45&area=true&hide_border=true&radius=8&point=2563eb&line=1d4ed8" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=github-compact&custom_title=Contribution%20Pulse&days=45&area=true&hide_border=true&radius=8&point=2563eb&line=1d4ed8" alt="Mahatir's 45-day GitHub contribution activity graph" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
