@@ -11,8 +11,8 @@
 <h1 align="center">Hi, I'm Mahatir Mahmud</h1>
 
 <p align="center">
-  <strong>App Developer · Creative Technologist · AI Product Builder</strong><br />
-  I design and build practical digital products that make everyday work simpler, smarter, and more useful.
+  <strong>App Developer · Creative Technologist · AI Enthusiast</strong><br />
+  I build practical Android and web applications with Kotlin, Jetpack Compose, React, TypeScript, JavaScript, and Node.js—using AI to create smarter tools, automate meaningful workflows, and turn ideas into useful digital products.
 </p>
 
 <p align="center">
