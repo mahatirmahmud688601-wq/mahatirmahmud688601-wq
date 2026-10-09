@@ -35,22 +35,28 @@ I enjoy turning ideas into practical products—from the first interface sketch 
 
 [**View all repositories →**](https://github.com/mahatirmahmud688601-wq?tab=repositories)
 
-## Core technologies
+## Tech Stack & Custom Badges
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/mahatirmahmud688601-wq/FieldNote-/actions/workflows/android-ci.yml"><img src="https://img.shields.io/badge/Android%20CI-workflow-3DDC84?style=for-the-badge&logo=android&logoColor=0b1220" alt="Android CI workflow" /></a>
+  <a href="https://github.com/mahatirmahmud688601-wq/FieldNote-/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License" /></a>
+  <a href="https://wakatime.com/@mahatirmahmud"><img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime coding stats" /></a>
+  <a href="https://www.linkedin.com/in/mahatir-mahmud-mahi-0281153a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=0b1220)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Exploring-7c3aed?style=flat-square&logo=probot&logoColor=white" alt="AI and automation" />
+  <img src="https://img.shields.io/badge/Android%20%26%20Compose-Building-3DDC84?style=flat-square&logo=android&logoColor=0b1220" alt="Android and Compose" />
+  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Exploring-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter and Dart" />
+  <img src="https://img.shields.io/badge/Modern%20Web-Shipping-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Modern web" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-f59e0b?style=flat-square&logo=handshake&logoColor=111827" alt="Open to collaborate" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,py,dart,flutter,js,ts,react,nodejs,firebase,ai,git,githubactions,figma&perline=15&theme=light" alt="Kotlin, Android, Java, Python, Dart, Flutter, JavaScript, TypeScript, React, Node.js, Firebase, AI, Git, GitHub Actions, and Figma" />
+  </a>
+</p>
 
 ## Current interests
 
