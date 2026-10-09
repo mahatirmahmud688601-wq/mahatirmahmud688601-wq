@@ -131,10 +131,9 @@ const mahatir = {
 - Designing modern web experiences with React, TypeScript, and Node.js
 - Maintaining public projects with MIT licensing, contribution guidelines, and automated checks
 
-## GitHub Trophies
+## GitHub Achievements & Highlights
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahatirmahmud688601-wq&theme=onedark&no-frame=true&no-bg=true&row=2&column=6&margin-w=12&margin-h=12" alt="Mahatir's GitHub trophies" width="100%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahatirmahmud688601-wq&theme=github_dark&animation=draw" alt="Mahatir's GitHub achievement statistics" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahatirmahmud688601-wq&theme=github_dark&animation=draw" alt="Mahatir's repository language statistics" width="49%" />
 </p>
