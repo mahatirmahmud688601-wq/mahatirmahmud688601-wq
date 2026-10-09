@@ -104,3 +104,37 @@ If you are building something useful with **AI, automation, Android, or the web*
 [![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahatirmahmud688601-wq?tab=repositories)
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:7c3aed&height=180&section=header&text=Mahatir%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=App%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18" alt="Mahatir Mahmud profile banner" width="100%" />
+</p>
+
+## About
+
+
+## Developer Snapshot
+
+```text
+const mahatir = {
+  role: "App Developer & Creative Technologist",
+  focus: ["Android", "Flutter", "Dart", "AI", "Automation", "Modern Web"],
+  builds: ["Productivity tools", "AI assistants", "Developer experiences"],
+  values: ["Clean UX", "Maintainable code", "Useful products"],
+  openTo: ["Collaboration", "Open-source projects", "Interesting ideas"]
+};
+```
+
+## Profile Highlights
+
+- Building Android products with Kotlin, Jetpack Compose, and Firebase
+- Exploring Flutter and Dart for cross-platform application development
+- Creating AI-assisted productivity tools and workflow automation
+- Designing modern web experiences with React, TypeScript, and Node.js
+- Maintaining public projects with MIT licensing, contribution guidelines, and automated checks
+
+## GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahatirmahmud688601-wq&theme=onedark&no-frame=true&no-bg=true&row=2&column=6&margin-w=12&margin-h=12" alt="Mahatir's GitHub trophies" width="100%" />
+  </a>
+</p>
