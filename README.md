@@ -74,9 +74,9 @@ I enjoy turning ideas into practical products—from the first interface sketch 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=react-dark&custom_title=Contribution%20Pulse&days=45&area=true&hide_border=true&radius=8&point=38bdf8&line=60a5fa" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=github-compact&custom_title=Contribution%20Pulse&days=45&area=true&hide_border=true&radius=8&point=2563eb&line=1d4ed8" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahatirmahmud688601-wq&theme=github-compact&custom_title=Contribution%20Pulse&days=45&area=true&hide_border=true&radius=8&point=2563eb&line=1d4ed8" alt="Mahatir's 45-day GitHub contribution activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahatirmahmud688601-wq&theme=github_dark&animation=draw" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahatirmahmud688601-wq&theme=github&animation=draw" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahatirmahmud688601-wq&theme=github&animation=draw" alt="Mahatir's GitHub contribution activity summary" />
   </picture>
 </p>
 
