@@ -73,7 +73,7 @@ I enjoy turning ideas into practical products—from the first interface sketch 
 </div>
 
 <!-- PROFILE_STATS_START -->
-<div align="center"><sub>Profile activity widgets refresh automatically.</sub></div>
+<p align="center"><sub>Stats refreshed automatically: 2026-10-10 06:10 UTC</sub></p>
 <!-- PROFILE_STATS_END -->
 
 ## Contribution Pulse
